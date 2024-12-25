@@ -113,3 +113,8 @@ When you open the browser, the dashboard will display a table showing the checkl
 - Add user authentication to access the dashboard.
 
 ---
+### Screenshots
+![image](https://github.com/user-attachments/assets/d7a563ea-2eaa-49ae-8532-45579a65e9cc)
+
+---
+ 
